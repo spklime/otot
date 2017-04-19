@@ -1,5 +1,17 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: bit-user
+=======
+<<<<<<< HEAD
+Built-By: ByungKeun Song
+=======
+<<<<<<< HEAD
+Built-By: bit-user
+=======
+Built-By: killersin
+>>>>>>> a6b7a92e50b1cd389a55707e8d0f2fb753728c1b
+>>>>>>> 44e0dc9eb8b2012b7f2d0b4652f89ef53b6308f9
+>>>>>>> 0f5b549e102e380b78de2374c01d0a0daa528c0e
 Build-Jdk: 1.8.0_121
 Created-By: Maven Integration for Eclipse
 
