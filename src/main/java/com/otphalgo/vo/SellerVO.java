@@ -11,6 +11,8 @@ public class SellerVO {
 	private String address;
 	private String license;
 	private String account;
+	
+	public SellerVO(){}
 	public SellerVO(String num, String id, String pw, String name, String email, String reg_date, String phone,
 			String address, String license, String account) {
 		super();
